@@ -163,7 +163,9 @@ PROMPTS_DATA = {
 }
 
 # 4. دالات إدارة قاعدة البيانات واللغات (تعمل الآن على SQLite بالكامل)
-DB_NAME = "bot_database.db"
+# 4. دالات إدارة قاعدة البيانات واللغات (تعمل الآن على SQLite بالكامل)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_NAME = os.path.join(BASE_DIR, "bot_database.db")
 
 def init_db():
     """إنشاء قاعدة البيانات والجدول إذا لم يكن موجوداً"""

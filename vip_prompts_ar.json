@@ -1,0 +1,146 @@
+[
+   
+    {
+        "title": "📱 هندسة تطبيقات أندرويد (Kotlin & Jetpack Compose)",
+        "text": "تصرف كمهندس معمارية برمجيات خبير في تطوير الأندرويد. أريد بناء تطبيق دليل سياحي محلي متطور باستخدام Kotlin و Jetpack Compose. الرجاء تزويدي بهيكلية تطبيق تعتمد على Clean Architecture و MVVM. اكتب لي الأكواد الأساسية لـ: 1. طبقة البيانات (Repository) للتعامل مع قاعدة بيانات محلية (Room). 2. إدارة الحالة في واجهة المستخدم (State Management). 3. تصميم شاشة رئيسية تفاعلية لعرض المعالم السياحية مع تطبيق أفضل ممارسات الـ UI/UX والأداء."
+    },
+    {
+        "title": "🏆 خوارزميات البرمجة التنافسية (Competitive Programming)",
+        "text": "تصرف كمدرب برمجة تنافسية خبير ومشارك سابق في مسابقات (ICPC / SCPC). لدي مشكلة برمجية تتطلب تحسين تعقيد الوقت (Time Complexity) والمساحة. سأعطيك وصف المشكلة، وأريدك أن: 1. تحلل المشكلة رياضياً ومنطقياً. 2. تقترح خوارزميتين للحل (واحدة Brute Force والثانية Optimized باستخدام تقنيات مثل Dynamic Programming أو Graph Theory). 3. تكتب الحل الأمثل بلغة C++ أو بايثون مع شرح تفصيلي لكيفية عمل الخوارزمية لتجاوز قيود الوقت (Time Limit Exceeded)."
+    },
+    {
+        "title": "🛡️ الأمن السيبراني وحماية البنية التحتية (Cybersecurity)",
+        "text": "تصرف كمستشار أمن سيبراني واختبار اختراق (Penetration Tester). نحن نقوم بتأمين بنية تحتية لشبكة أساسية. اكتب لي خطة تدقيق أمني شاملة (Security Audit Plan) تشمل: 1. تحديد الثغرات المحتملة في بروتوكولات التوجيه. 2. كيفية إعداد جدار حماية (Firewall) متقدم لمنع هجمات (DDoS). 3. سكربت بايثون مبدئي لفحص المنافذ المفتوحة (Port Scanner) وتقديم تقرير آلي بالثغرات المحتملة."
+    },
+    {
+        "title": "💼 إطلاق وتسويق شركة تقنية ناشئة (B2B SaaS Startup)",
+        "text": "تصرف كخبير تطوير أعمال ومحلل استراتيجي للشركات التقنية الناشئة (B2B). نحن نطلق شركة ناشئة متخصصة في أتمتة الشبكات وأمن البنية التحتية. صمم لي خطة (Go-To-Market Strategy) احترافية تتضمن: 1. صياغة عرض القيمة الفريد (Value Proposition). 2. استراتيجية تواصل بارد (Cold Outreach) عبر LinkedIn لاستهداف مديري تكنولوجيا المعلومات (CTOs). 3. هيكلية الصفحة المقصودة (Landing Page) لزيادة معدل التحويل (Conversion Rate)."
+    },
+    {
+        "title": "📈 التداول الآلي وإدارة الأصول الرقمية (Crypto & Web3)",
+        "text": "تصرف كمحلل بيانات مالية ومطور بلوكتشين (Web3 Developer). أريد بناء بوت تداول آلي (Trading Bot) يتصل بواجهة برمجة تطبيقات منصة Binance. اكتب لي المنطق البرمجي (بايثون) الذي يقوم بـ: 1. جلب الأسعار اللحظية لأزواج مثل BTC/USDT. 2. تطبيق مؤشر القوة النسبية (RSI) والمتوسطات المتحركة (MA) لتحديد نقاط الدخول والخروج. 3. إضافة نظام صارم لإدارة المخاطر (Stop-Loss و Take-Profit) لحماية المحفظة."
+    },
+    {
+        "title": "🎥 صناعة محتوى تقني للفيديو (Tech Reels Production)",
+        "text": "تصرف كصانع محتوى تقني محترف وخبير في تحرير الفيديو. أريد إنتاج سلسلة فيديوهات قصيرة (Reels) احترافية. اكتب لي خطة إنتاج كاملة لفيديو مدته 60 ثانية يشرح 'أدوات الذكاء الاصطناعي للمطورين'. الخطة يجب أن تتضمن: 1. Hook (خطاف قوي للثواني الثلاث الأولى). 2. السكربت الصوتي التفصيلي. 3. توجيهات بصرية لعملية المونتاج على برامج مثل InShot أو CapCut (متى نضع B-roll، متى نستخدم الـ Transitions، والنصوص التوضيحية Captions)."
+    },
+    {
+        "title": "🤖 هندسة أوامر وتصميم واجهات الذكاء الاصطناعي (AI Tools Education)",
+        "text": "تصرف كمدرب تقني متخصص في أدوات الذكاء الاصطناعي. أريد تصميم واجهة استخدام (UI) تفاعلية لمنصة تعليمية. استخدم تقنيات هندسة الأوامر المتقدمة لتوليد: 1. هيكل ألوان متناسق (Color Palette) يعكس التطور التكنولوجي. 2. وصف تفصيلي لمكونات واجهة المستخدم (Components) مثل أزرار التنقل والبطاقات التفاعلية. 3. كود CSS/HTML و JS أساسي لبناء نموذج أولي (Prototype) لصفحة العرض الرئيسية للمنصة."
+    },
+    {
+        "title": "⚙️ تصميم نماذج تعليم الآلة (Machine Learning Pipelines)",
+        "text": "تصرف كمهندس تعليم آلة (ML Engineer). أريد بناء مسار بيانات (Data Pipeline) متكامل لتدريب نموذج تنبؤي. اكتب لي الخطوات البرمجية والمفاهيمية باستخدام بايثون (Scikit-Learn أو TensorFlow) للقيام بـ: 1. تنظيف ومعالجة البيانات الأولية (Data Preprocessing). 2. استخراج الميزات (Feature Engineering). 3. اختيار خوارزمية التدريب المناسبة مع ضبط المعاملات الفائقة (Hyperparameter Tuning). 4. تقييم أداء النموذج لتجنب الـ Overfitting."
+    },
+    {
+        "title": "🛠️ هيكلة فرق العمل التقنية وإدارة المشاريع (Tech Team Management)",
+        "text": "تصرف كمدير منتج تقني (Technical Product Manager) بخبرة في منهجيات Agile. نحن فريق عمل حر (Freelance Team) مكون من 4 أشخاص نعمل على مشروع برمجي متكامل (تطبيق موبايل ولوحة تحكم ويب). صمم لي خطة عمل تفصيلية (Sprint Plan) لمدة شهر تشمل: 1. توزيع المهام البرمجية والـ UI/UX. 2. استراتيجية التعامل مع الـ Git و GitHub (إدارة الـ Repositories والـ Forks بين أعضاء الفريق). 3. أدوات متابعة التقدم لضمان تسليم المشروع في الوقت المحدد."
+    },
+    {
+        "title": "🏥 تصميم إعلان طبي فاخر (Nano Banana Pro)",
+        "text": "Role: أنت Creative Director + Performance Marketer + Premium Branding Specialist متخصص في إعلانات العيادات والخدمات الطبية عالية التحويل.\nObjective: أنشئ إعلانًا عربيًا فاخرًا عالي التحويل لمنتج/خدمة [عيادة أسنان / جلدية / مختبر / عيادة عامة] لصالح [اسم المشروع]، مناسب لـ Instagram / Facebook / TikTok / Snapchat، بالمقاسات 9:16 و4:5 و1:1.\nProject Information: اسم المشروع [اسم المشروع]، الهاتف [رقم الهاتف]، واتساب [رقم الواتساب]، العنوان [العنوان]، الحساب [@username]، استخدم الشعار الرسمي فقط إذا كان مرفقًا.\nTarget Audience: الأسر والأفراد الباحثون عن خدمة صحية موثوقة وقريبة.\nCustomer Pain Point: العميل يريد خيارًا موثوقًا وجذابًا ولا يريد منتجًا عاديًا أو إعلانًا غير واضح.\nCustomer Desire: الحصول على رعاية موثوقة باحترام ووضوح مع طلب سريع وواضح عبر واتساب.\nOffer: فحص أو استشارة أولية بسعر خاص إذا كان مسموحًا، اجعله داخل Badge أو شريط عرض واضح.\nDecision Trigger: لفترة محدودة / الكمية محدودة / احجز الآن قبل انتهاء العرض.\nScene Direction: صمّم مشهدًا فاخرًا ونظيفًا يجعل [عيادة أسنان / جلدية / مختبر / عيادة عامة] هو البطل الرئيسي، مع خلفية مناسبة للمجال، إضاءة تجارية ناعمة، وتفاصيل واقعية تبرز الجودة.\nVisual Composition: قُد العين من المنتج إلى العنوان ثم العرض ثم زر CTA ثم الفوتر. اترك Safe Area للهاتف ولا تزدحم العناصر.\nArabic Copy Inside Design: العنوان \"رعاية أوضح واهتمام أقرب\"، النص الفرعي \"خدمة طبية منظمة، مواعيد سهلة، وفريق يهتم بتجربتك\"، شريط العرض \"فحص أو استشارة أولية بسعر خاص إذا كان مسموحًا\"، جملة أكشن \"لا تفوّت العرض\"، زر CTA \"احجز موعدك\"، الفوتر: [اسم المشروع] | [رقم الواتساب] | [العنوان].\nBranding Rules: حافظ على هوية Premium Direct Response، لا تستخدم شعارات وهمية، لا تخترع بيانات، واجعل النص العربي واضحًا.\nOutput Requirements: 4K و8K، hyper-detailed، ultra clean، مناسب للإعلانات الممولة، نص عربي سليم، جاهز للنشر.\nNegative Instructions: لا تشوه المنتج، لا تزحم التصميم، لا تجعل CTA ضعيفًا، لا تستخدم نصًا عربيًا مكسّرًا، لا تضع عناصر مشتتة.\n\nContact & WhatsApp Branding: اسم المشروع: [اسم المشروع] | رقم التواصل/واتساب: [رقم الواتساب] | أضف شعار/أيقونة واتساب الرسمية بجانب الرقم داخل زر CTA والفوتر بوضوح، ولا تستخدم أي رقم آخر."
+    },
+    {
+        "title": "👕 إعلان مبيعات للملابس الكاجوال (Nano Banana Pro)",
+        "text": "Role: أنت Creative Director + Performance Marketer + Premium Branding Specialist متخصص في إعلانات الملابس الكاجوال عالية التحويل.\nObjective: أنشئ إعلانًا عربيًا فاخرًا عالي التحويل لمنتج/خدمة [تيشيرتات / بناطيل / هوديز / أطقم يومية] لصالح [اسم المشروع]، مناسب لـ Instagram / Facebook / TikTok / Snapchat، بالمقاسات 9:16 و4:5 و1:1.\nProject Information: اسم المشروع [اسم المشروع]، الهاتف [رقم الهاتف]، واتساب [رقم الواتساب]، العنوان [العنوان]، الحساب [@username]، استخدم الشعار الرسمي فقط إذا كان مرفقًا.\nTarget Audience: شباب وشابات يبحثون عن ملابس عملية وعصرية بسعر مناسب.\nCustomer Pain Point: العميل يريد خيارًا موثوقًا وجذابًا ولا يريد منتجًا عاديًا أو إعلانًا غير واضح.\nCustomer Desire: الحصول على ستايل يومي مريح وعصري مع طلب سريع وواضح عبر واتساب.\nOffer: خصم نهاية الأسبوع، اجعله داخل Badge أو شريط عرض واضح.\nDecision Trigger: لفترة محدودة / الكمية محدودة / احجز الآن قبل انتهاء العرض.\nScene Direction: صمّم مشهدًا فاخرًا ونظيفًا يجعل [تيشيرتات / بناطيل / هوديز / أطقم يومية] هو البطل الرئيسي، مع خلفية مناسبة للمجال، إضاءة تجارية ناعمة، وتفاصيل واقعية تبرز الجودة.\nVisual Composition: قُد العين من المنتج إلى العنوان ثم العرض ثم زر CTA ثم الفوتر. اترك Safe Area للهاتف ولا تزدحم العناصر.\nArabic Copy Inside Design: العنوان \"ستايل يومي يلفت الانتباه\"، النص الفرعي \"تصاميم مريحة وعصرية تناسب يومك\"، شريط العرض \"خصم نهاية الأسبوع\"، جملة أكشن \"لا تفوّت العرض\"، زر CTA \"تسوق الآن\"، الفوتر: [اسم المشروع] | [رقم الواتساب] | [العنوان].\nBranding Rules: حافظ على هوية Premium Direct Response، لا تستخدم شعارات وهمية، لا تخترع بيانات، واجعل النص العربي واضحًا.\nOutput Requirements: 4K و8K، hyper-detailed، ultra clean، مناسب للإعلانات الممولة، نص عربي سليم، جاهز للنشر.\nNegative Instructions: لا تشوه المنتج، لا تزحم التصميم، لا تجعل CTA ضعيفًا، لا تستخدم نصًا عربيًا مكسّرًا، لا تضع عناصر مشتتة.\n\nContact & WhatsApp Branding: اسم المشروع: [اسم المشروع] | رقم التواصل/واتساب: [رقم الواتساب] | أضف شعار/أيقونة واتساب الرسمية بجانب الرقم داخل زر CTA والفوتر بوضوح، ولا تستخدم أي رقم آخر."
+    },
+    {
+        "title": "✈️ إعلان حجوزات سفر وطيران (GPT Image 2)",
+        "text": "Create a premium Arabic direct-response advertising image for [حجوزات طيران / تأشيرات / رحلات سياحية] under the brand [اسم المشروع]. The creative must look like a high-end commercial ad but remain built for conversion and WhatsApp inquiries.\nUse a realistic premium product/service scene that communicates: رحلتك أسهل وأسرع. Make the main subject visually dominant, sharp, polished, and easy to understand on mobile.\nInclude Arabic text hierarchy inside the design: headline \"احجز رحلتك بثقة\"; subheadline \"خدمات سفر وطيران بسرعة، وضوح، وأسعار مناسبة\"; offer badge \"استشارة سفر مجانية\"; action line \"اطلب اليوم واستفد\"; CTA button \"تواصل للحجز\"; footer with [اسم المشروع] + [رقم الواتساب] + [العنوان/الحساب].\nVisual style: luxury commercial advertising, clean layout, soft studio/cinematic lighting, high contrast for readable Arabic typography, strong safe area for 9:16 / 4:5 / 1:1 formats.\nMarketing direction: focus on clear benefit, trust, urgency, and immediate action. The ad should feel ready for Facebook, Instagram, Reels, Stories, and Click-to-WhatsApp campaigns.\nQuality: 4K and 8K visual quality, hyper-detailed, ultra clean, premium branding, mobile-first.\nAvoid: fake logos, invented contact data, distorted Arabic text, clutter, low-resolution product, weak CTA, confusing layout, exaggerated claims.\n\nContact & WhatsApp Branding: اسم المشروع: [اسم المشروع] | رقم التواصل/واتساب: [رقم الواتساب] | أضف شعار/أيقونة واتساب الرسمية بجانب الرقم داخل زر CTA والفوتر بوضوح، ولا تستخدم أي رقم آخر."
+    },
+    {
+        "title": "🍲 إعلان مطاعم وأكلات شعبية (Nano Banana Pro)",
+        "text": "Role: أنت Creative Director + Performance Marketer + Premium Branding Specialist متخصص في إعلانات الأكلات الشعبية عالية التحويل.\nObjective: أنشئ إعلانًا عربيًا فاخرًا عالي التحويل لمنتج/خدمة [مندي / كبسة / زربيان / أكلات يمنية] لصالح [اسم المشروع]، مناسب لـ Instagram / Facebook / TikTok / Snapchat، بالمقاسات 9:16 و4:5 و1:1.\nProject Information: اسم المشروع [اسم المشروع]، الهاتف [رقم الهاتف]، واتساب [رقم الواتساب]، العنوان [العنوان]، الحساب [@username]، استخدم الشعار الرسمي فقط إذا كان مرفقًا.\nTarget Audience: العائلات والموظفون ومحبو الأكل الشعبي والطلبات الجماعية.\nCustomer Pain Point: العميل يريد خيارًا موثوقًا وجذابًا ولا يريد منتجًا عاديًا أو إعلانًا غير واضح.\nCustomer Desire: الحصول على وجبة مشبعة بطعم أصيل مع طلب سريع وواضح عبر واتساب.\nOffer: توصيل مجاني للطلبات الكبيرة، اجعله داخل Badge أو شريط عرض واضح.\nDecision Trigger: لفترة محدودة / الكمية محدودة / احجز الآن قبل انتهاء العرض.\nScene Direction: صمّم مشهدًا فاخرًا ونظيفًا يجعل [مندي / كبسة / زربيان / أكلات يمنية] هو البطل الرئيسي، مع خلفية مناسبة للمجال، إضاءة تجارية ناعمة، وتفاصيل واقعية تبرز الجودة.\nVisual Composition: قُد العين من المنتج إلى العنوان ثم العرض ثم زر CTA ثم الفوتر. اترك Safe Area للهاتف ولا تزدحم العناصر.\nArabic Copy Inside Design: العنوان \"طعم أصيل يشبعك\"، النص الفرعي \"وجبات شعبية ساخنة ومجهزة يوميًا بأجود المكونات\"، شريط العرض \"توصيل مجاني للطلبات الكبيرة\"، جملة أكشن \"لا تفوّت العرض\"، زر CTA \"اطلب وجبتك الآن\"، الفوتر: [اسم المشروع] | [رقم الواتساب] | [العنوان].\nBranding Rules: حافظ على هوية Premium Direct Response، لا تستخدم شعارات وهمية، لا تخترع بيانات، واجعل النص العربي واضحًا.\nOutput Requirements: 4K و8K، hyper-detailed، ultra clean، مناسب للإعلانات الممولة، نص عربي سليم، جاهز للنشر.\nNegative Instructions: لا تشوه المنتج، لا تزحم التصميم، لا تجعل CTA ضعيفًا، لا تستخدم نصًا عربيًا مكسّرًا، لا تضع عناصر مشتتة.\n\nContact & WhatsApp Branding: اسم المشروع: [اسم المشروع] | رقم التواصل/واتساب: [رقم الواتساب] | أضف شعار/أيقونة واتساب الرسمية بجانب الرقم داخل زر CTA والفوتر بوضوح، ولا تستخدم أي رقم آخر."
+    },{
+        "title": "🍔 إعلان مطعم / فاست فود (فيديو)",
+        "text": "Create a premium Arabic fast-food advertisement video, 9:16, 10 seconds.\nHero product: [burger/pizza/fried chicken/drink].\nScene: modern fast-food restaurant, bright commercial lighting, appetizing close-ups.\nAction: cheese pull / sauce pour / crispy steam / hand picks up the product.\nCamera: macro close-up, slow-motion food movement, quick final push-in.\nText Arabic: \"طعم يخليك ترجع\" + \"عرض اليوم\" + \"اطلب الآن\".\nAudio: sizzling food sounds, upbeat music, Arabic voiceover.\nNegative: no fake logo, no messy food, no distorted hands, no broken Arabic."
+    },
+    {
+        "title": "💻 إعلان خدمة رقمية (فيديو)",
+        "text": "Create a premium Arabic digital service ad video, vertical 9:16, 15 seconds.\nService: [service].\nVisuals: modern phone and laptop UI mockups, clean blue/orange tech style, fast animated icons.\nStructure: problem -> solution -> benefits -> CTA.\nArabic text: \"وفّر وقتك\" / \"نتائج أسرع\" / \"ابدأ الآن\".\nCamera: smooth motion graphics, clean transitions.\nAudio: confident Arabic voiceover, modern tech beat.\nNegative: no fake app screenshots, no unreadable tiny text, no clutter."
+    },
+    {
+        "title": "👤 فيديو بدون وجه Faceless (تعليمي/معلومة)",
+        "text": "Create a faceless educational AI video, 9:16, 30 seconds.\nTopic: [topic].\nVisual style: clean animated scenes, screen recordings, icons, kinetic Arabic typography.\nNarration: Arabic voiceover explaining 3 clear points.\nScene sequence: hook, point 1, point 2, point 3, final CTA.\nCaptions: large Arabic RTL subtitles, highlighted keywords.\nAudio: calm confident narration, light background music.\nNegative: no random stock footage, no crowded captions, no broken Arabic."
+    },
+    {
+        "title": "🗣️ فيديو شهادة عميل UGC (مراجعة منتج)",
+        "text": "Create a realistic UGC-style testimonial video, 9:16, 25 seconds.\nPresenter: natural adult Arabic speaker, casual smartphone framing.\nScene: home or office, realistic lighting, authentic feel.\nScript: \"كنت أواجه [المشكلة]، وبعد تجربة [المنتج/الخدمة] حصلت على [النتيجة]. أكثر شيء أعجبني [الميزة]. أنصح به لمن يريد [الرغبة].\"\nCamera: handheld phone video, slight natural movement.\nCaptions: Arabic RTL, clean and readable.\nNegative: no overacting, no fake luxury style, no robotic face, no lip sync errors."
+    },
+    {
+        "title": "⚡ فيديو ترند لمعلومة سريعة",
+        "text": "Create a trendy Arabic short video, 9:16, 12 seconds.\nHook: \"لا تبدأ إعلانك قبل ما تعرف هذا الشيء\"\nTopic: [marketing/AI/design tip].\nStyle: kinetic typography, fast zoom cuts, screen overlays, bold Arabic captions.\nSequence: hook -> mistake -> correct method -> CTA.\nAudio: upbeat trend-style beat, quick whoosh transitions.\nCTA: \"احفظها وجرّبها اليوم\".\nNegative: no long paragraphs, no slow pacing, no unreadable text."
+    },
+    {
+        "title": "📦 إعلان منتج 10 ثواني (احترافي)",
+        "text": "Create a premium Arabic product advertisement video, 9:16 vertical, 10 seconds.\nMain subject: [product name] as the hero, centered and highly detailed.\nScene: modern premium studio background using brand colors [colors].\nAction: the product rotates slowly, light reflections reveal texture, then a clean offer badge appears.\nCamera: slow dolly-in, smooth cinematic movement, shallow depth of field.\nLighting: soft commercial lighting, elegant highlights, realistic shadows.\nOn-screen Arabic text: \"[headline]\" then \"[benefit 1] • [benefit 2] • [benefit 3]\" then CTA \"اطلب الآن\".\nAudio: energetic Arabic commercial voiceover, subtle whoosh transitions, premium background music.\nQuality: sharp, realistic, 4K detail feel, mobile readable.\nNegative: no fake logo, no incorrect Arabic, no extra products, no clutter, no watermark."
+    },
+    {
+        "title": "🎙️ فيديو شخصي بمتحدث AI",
+        "text": "Create a realistic personal-brand talking video.\nPresenter: professional adult Arabic-speaking presenter, confident and friendly, modern business casual style.\nScene: clean modern office/studio, soft background blur.\nCamera: medium close-up, eye-level, subtle natural movement.\nScript language: Arabic.\nScript: \"[اكتب السكربت هنا]\"\nTone: trustworthy, energetic, educational, direct.\nOn-screen captions: large Arabic RTL captions, keyword highlights only.\nFormat: 9:16, 30 seconds, social media ready.\nNegative: no robotic facial expressions, no wrong lip sync, no broken Arabic captions, no exaggerated gestures."
+    },
+    {
+        "title": "🔥 فيديو ترند سريع (ديناميكي)",
+        "text": "Create a fast-paced trendy vertical video for social media.\nTopic: [topic]\nHook text in Arabic: \"[hook]\"\nVisual style: energetic kinetic typography, quick cuts, modern social media aesthetic.\nScenes: 5 micro-scenes, each 1-2 seconds, matching the script.\nCamera: handheld energy, zoom cuts, quick push-ins, dynamic transitions.\nText: large Arabic RTL captions, high contrast, mobile readable.\nAudio: upbeat trending-style beat, subtle whooshes, optional Arabic voiceover.\nFormat: 9:16, 12 seconds.\nNegative: no crowded text, no outdated stock visuals, no unreadable Arabic, no watermark."
+    },
+    {
+        "title": "🎬 القالب العام المخصص (لأي فيديو AI)",
+        "text": "Create a high-quality AI video clip.\nGoal: [what this shot must achieve]\nMain subject: [product/person/object]\nAction: [exact action happening in the shot]\nScene: [location/background/context]\nCamera: [shot type + camera movement]\nLighting: [lighting style]\nVisual style: [commercial / cinematic / UGC / trendy / documentary]\nAudio: [Arabic voiceover / dialogue / sound effects / music / ambience]\nOn-screen Arabic text: [clear RTL Arabic text]\nDuration: [5-10 seconds]\nAspect ratio: [9:16 / 4:5 / 1:1 / 16:9]\nQuality: sharp, realistic, premium, social-media ready.\nNegative instructions: no fake logos, no broken Arabic text, no distorted hands, no watermark, no visual clutter, no unreadable small text."
+    },
+    {
+        "title": "🚀 Master Prompt (لإدارة حملة فيديو كاملة)",
+        "text": "Act as an AI Video Creative Director + Direct Response Copywriter + Arabic Social Media Strategist.\nI will give you a project brief. Your task is to create a complete AI video production package.\n\nPROJECT BRIEF:\nBrand/Project: [اسم المشروع]\nProduct/Service: [المنتج أو الخدمة]\nTarget Audience: [الجمهور]\nPlatform: [TikTok / Instagram Reels / Facebook / YouTube Shorts / WhatsApp Status]\nVideo Duration: [15 / 20 / 30 seconds]\nGoal: [sales / WhatsApp messages / awareness / personal branding / trend]\nOffer: [العرض إن وجد]\nCTA: [اطلب الآن / راسلنا / احجز / اشترك]\nBrand Colors: [الألوان]\nTone: [فاخر / شبابي / مباشر / تعليمي / UGC]\n\nDELIVERABLES:\n1. 10 Arabic hooks for the first 3 seconds.\n2. 3 script versions: direct response, storytelling, and UGC.\n3. A detailed shot list table: time, scene, camera, action, on-screen text, voiceover, tool to use.\n4. AI video prompts for each shot suitable for Flow/Veo, Runway, Kling, or HeyGen.\n5. Arabic voiceover script.\n6. CapCut editing instructions.\n7. Final caption for Facebook/Instagram.\n8. Negative instructions to avoid broken Arabic text, fake logos, distorted faces/hands, and clutter.\n\nWrite everything in Arabic except the AI video prompts, which should be in clear English with Arabic text fields preserved exactly."
+    },
+    {
+        "title": "🤖 برومبت ChatGPT (لكتابة سكربت إعلان)",
+        "text": "أنت كاتب إعلانات Direct Response ومخرج فيديوهات قصيرة.\nاكتب لي سكربت فيديو إعلاني مدته [20 ثانية] باللغة العربية لمشروع [اسم المشروع] الذي يبيع/يقدم [المنتج أو الخدمة].\nالجمهور المستهدف: [الجمهور].\nالمشكلة التي يعاني منها العميل: [المشكلة].\nالرغبة التي يريدها: [الرغبة].\nالعرض: [العرض].\nCTA: [اطلب الآن / راسلنا واتساب].\n\nالمطلوب:\n1. 5 Hooks قوية لأول 3 ثواني.\n2. سكربت نهائي مقسم بالثواني.\n3. نصوص قصيرة تظهر على الشاشة.\n4. Voiceover عربي طبيعي.\n5. جدول Shot List لكل لقطة.\n6. برومبت فيديو لكل لقطة باللغة الإنجليزية مع الحفاظ على النص العربي كما هو."
+    },
+    {
+        "title": "✨ برومبت Gemini (لتحويل صورة/فيديو إلى برومبت)",
+        "text": "حلّل الصورة أو الفيديو المرجعي المرفق، ثم ابنِ برومبت فيديو احترافي مناسب لـ Google Flow/Veo.\nالمطلوب:\n- وصف المشهد الرئيسي.\n- نوع الكاميرا والزاوية والحركة.\n- الإضاءة والألوان.\n- حركة الشخص أو المنتج.\n- النص العربي المقترح داخل الفيديو.\n- حوار أو تعليق صوتي عربي إن كان مناسبًا.\n- برومبت نهائي باللغة الإنجليزية لمدة [8-10 ثواني] وبمقاس [9:16].\n- تعليمات سلبية تمنع تشويه النص العربي أو الوجوه أو المنتج أو إضافة شعارات وهمية."
+    },
+    {
+        "title": "🧠 برومبت Claude (لتحسين سكربت موجود)",
+        "text": "راجع السكربت التالي كخبير كتابة فيديوهات تعليمية وإعلانية.\nالمطلوب:\n1. اكتشف نقاط الضعف في Hook والإيقاع والوضوح والبيع.\n2. أعد كتابة السكربت بلغة عربية أقوى وأكثر اختصارًا.\n3. اجعل كل جملة مناسبة للنطق الصوتي والكابشن.\n4. اقترح Shot List منظم.\n5. اقترح 3 نسخ مختلفة من CTA.\n6. أعطني نسخة نهائية جاهزة للإنتاج.\nالسكربت:\n[ضع السكربت هنا]"
+    },
+    {
+        "title": "📈 برومبت Grok (لاستخراج أفكار الترند)",
+        "text": "أريد أفكار فيديوهات قصيرة بأسلوب ترند لمنصة [TikTok/Reels/X].\nالمجال: [التسويق / AI / مطاعم / منتجات / براند شخصي].\nالجمهور: [الجمهور].\nالمطلوب:\n1. 20 Hook قصير جدًا مناسب لأول ثانية.\n2. 10 أفكار فيديو قابلة للتنفيذ خلال 15 ثانية.\n3. لكل فكرة: السكربت، النص على الشاشة، نوع اللقطة، الموسيقى/الإيقاع المقترح.\n4. اجعل اللغة مباشرة وسريعة وغير مملة.\n5. تجنب المبالغة والادعاءات غير المثبتة."
+    },
+    {
+        "title": "🛠️ برومبت Manus (لإعداد مشروع فيديو متكامل)",
+        "text": "نفّذ لي مشروع إعداد حملة فيديوهات AI قصيرة منظمًا كمخرجات قابلة للاستخدام.\nالهدف: [مثلاً: 10 فيديوهات إعلانية لمطعم / 20 فيديو براند شخصي / 15 فيديو ترند].\nالمشروع: [اسم المشروع]\nالجمهور: [الجمهور]\nالمنصات: [Instagram, TikTok, Facebook, WhatsApp]\nمدة كل فيديو: [15-30 ثانية]\n\nالمطلوب النهائي:\n1. جدول أفكار الفيديوهات.\n2. سكربت لكل فيديو.\n3. Shot List لكل فيديو.\n4. برومبت توليد فيديو لكل لقطة.\n5. نص Voiceover.\n6. تعليمات مونتاج CapCut.\n7. كابشن ومنشور لكل فيديو.\n8. Checklist جودة.\nنظّم المخرجات في جداول واضحة قابلة للنسخ، ولا تستخدم بيانات وهمية مثل أرقام هاتف أو شعارات غير متوفرة."
+    },
+    {
+        "title": "🎥 قالب أداة Runway (تحريك الصور Image-to-Video)",
+        "text": "Animate the uploaded image into a premium commercial shot.\nThe product remains sharp and true to the reference image.\nMotion: [describe exact product/background motion]\nCamera: slow dolly-in with subtle parallax.\nLighting: soft cinematic highlights, realistic shadows.\nMood: premium, clean, modern, high-conversion advertisement.\nNo deformation, no change to product shape, no fake text, no extra logos."
+    },
+    {
+        "title": "🗣️ قالب أداة Flow/Veo (مشهد ناطق بالذكاء الاصطناعي)",
+        "text": "Create a cinematic Arabic-speaking video scene.\nScene purpose: [hook / product reveal / testimonial / CTA]\nCharacter: [description]\nLocation: [description]\nAction: [clear action]\nCamera: [framing + movement]\nDialogue in Arabic: \"[الجملة العربية المراد نطقها]\"\nAudio: natural voice, realistic room ambience, subtle music.\nStyle: realistic premium commercial, clean composition.\nDuration: 8 seconds, aspect ratio 9:16.\nNegative: no lip-sync errors, no broken Arabic text, no distorted faces, no fake logos."
+    },
+    {
+        "title": "🎞️ قالب أداة Kling (توليد مشاهد واقعية مترابطة)",
+        "text": "Generate a realistic short-form commercial video.\nShot 1: [opening action]\nShot 2: [product/person interaction]\nShot 3: [final CTA moment]\nSubject consistency: keep the same character/product appearance across shots.\nCamera: dynamic but smooth, commercial pacing.\nAudio: natural synced sound and Arabic voiceover.\nFormat: 9:16, 15 seconds.\nNegative: avoid inconsistent faces, broken motion, fake brand marks, unreadable Arabic."
+    },
+    {
+        "title": "📝 قالب سكربت إعلان مباشر (نص جاهز)",
+        "text": "المشكلة: هل تعاني من [المشكلة]؟\nالحل: مع [اسم الخدمة/المنتج] تحصل على [النتيجة].\nالفوائد: [ميزة 1]، [ميزة 2]، [ميزة 3].\nالعرض: [عرض/خصم/هدية].\nCTA: راسلنا الآن واحجز/اطلب."
+    },
+    {
+        "title": "💬 قالب سكربت UGC (صناعة محتوى المستخدم)",
+        "text": "أنا جرّبت [المنتج/الخدمة] لأن عندي مشكلة [المشكلة].\nأكثر شيء أعجبني هو [الميزة].\nخلال [مدة] لاحظت [نتيجة].\nلو أنت تبحث عن [الرغبة]، جرّبه الآن / راسلهم واتساب."
+    },
+    {
+        "title": "📚 قالب سكربت فيديو تعليمي",
+        "text": "Hook: أغلب الناس يخطئون في [الموضوع].\nالنقطة 1: [معلومة قصيرة].\nالنقطة 2: [معلومة قصيرة].\nالنقطة 3: [معلومة قصيرة].\nالخاتمة: جرّب هذه الطريقة واحفظ الفيديو."
+    },
+    {
+        "title": "📈 قالب سكربت فيديو ترند",
+        "text": "هل تعرف لماذا [نتيجة مثيرة]؟\nالسبب الأول: [نقطة].\nالسبب الثاني: [نقطة].\nالطريقة الصحيحة: [حل].\nاكتب كلمة [كلمة] إذا تريد القالب."
+    },
+    {
+        "title": "⏱️ نص إعلان جاهز شامل (20 ثانية)",
+        "text": "هل تبحث عن [الحل/النتيجة]؟\nمع [اسم المنتج/الخدمة] تحصل على [الميزة الأساسية] بسرعة وجودة.\n[ميزة 1]، [ميزة 2]، [ميزة 3].\nالعرض متاح الآن لفترة محدودة.\nراسلنا واتساب واطلب الآن."
+    }
+]
